@@ -1,6 +1,6 @@
 {
   "name": "botsat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chat conversation ",
   "main": "index.js",
   "scripts": {
