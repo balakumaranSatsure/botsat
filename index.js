@@ -1,3 +1,3 @@
-function botSat(option) {
+function botSat() {
     console.log("Bala package")
 }

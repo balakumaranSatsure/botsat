@@ -1,0 +1,22 @@
+{
+  "name": "botsat",
+  "version": "1.0.0",
+  "description": "chat conversation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balakumaranSatsure/botsat.git"
+  },
+  "keywords": [
+    "botsat"
+  ],
+  "author": "Bala Kumaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balakumaranSatsure/botsat/issues"
+  },
+  "homepage": "https://github.com/balakumaranSatsure/botsat#readme"
+}
